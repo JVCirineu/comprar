@@ -1,0 +1,12 @@
+{
+    "produtos": 
+    [
+        {
+        "img":"../../assets/maionese.webp",
+        "nome":"Maionese Hemmer",
+        "descricao":"Maionese Hemmer Tradicional 930g",
+        "valor":8.99,
+        "id":1
+        }
+    ]
+}
